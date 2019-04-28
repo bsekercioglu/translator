@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnSpeak;
     private Button btnTranslate;
     private TextView txtText, txtEnglish;
-    private static final String API_KEY = "AIzaSyDOwopYK5zx1i5kS9HJXUF7Ob9rbm9g-I4";
+    private static final String API_KEY = "API-KEY";
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
